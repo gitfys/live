@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="城北教会" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="教会频道",城北教会
+#EXTINF:-1 tvg-id="城北教会" tvg-name="城北教会" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="教会频道",城北教会
 https://gt.yike33.com/541d/fg124.m3u8?auth_key=1665295667-0-0-fa89da15b05d3c6bb57d9859fd63c8a8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视高清",CCTV-1 综合
 http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHZMxCRWp3HWsIw2YA4WN0gZ4ZwGH0TEaahnmJ3AUk9g%2B&p=GITV&area=GD_CUCC&mac=d4:38:44:a5:72:8b
