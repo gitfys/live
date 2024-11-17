@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="0" tvg-name="城北教会" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="教会频道",城北教会
+https://gt.yike33.com/541d/fg124.m3u8?auth_key=1665295667-0-0-fa89da15b05d3c6bb57d9859fd63c8a8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
