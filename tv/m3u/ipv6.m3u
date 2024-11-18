@@ -3,6 +3,8 @@
 https://gt.yike33.com/541d/fg124.m3u8?auth_key=1665295667-0-0-fa89da15b05d3c6bb57d9859fd63c8a8
 #EXTINF:-1 tvg-name="城北云崇" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="教会频道",城北云崇
 http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/70e7f5d91397757896170506793/playlist.m3u8
+#EXTINF:-1 tvg-name="城北线场" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="教会频道",城北线场
+https://vdo.ninja/?scene&room=2025-
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
