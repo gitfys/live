@@ -128,6 +128,8 @@ http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000531/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视
+http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000037/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/1.m3u8
