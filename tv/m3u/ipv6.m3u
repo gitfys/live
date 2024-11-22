@@ -17,6 +17,10 @@ https://cf-yqk.sanmanuela.com/20241117/index.m3u8
 https://cf-yqk.sanmanuela.com/20241111/index.m3u8
 #EXTINF:-1 tvg-name="福音TV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="教会频道",福音TV 云上崇拜
 https://cf-yqk.sanmanuela.com/20241103/index.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="教会频道",好消息
+http://litv.zapi.us.kg/4gTV/?id=litv-ftv16
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="教会频道",好消息2
+http://litv.zapi.us.kg/4gTV/?id=litv-ftv17
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
@@ -385,3 +389,5 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="地方频道" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/jmstv.cc.png" group-title="地方频道",佳木斯新闻综合
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8
+#EXTINF:-1 tvg-name="地方频道" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/qttv.png" group-title="地方频道",青田电视台
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
