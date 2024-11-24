@@ -1,28 +1,31 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="一起看直播" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="教会频道",一起看 直播/重播
+#EXTINF:-1 tvg-name="一起看直播" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看†直播/重播
 https://gt.yike33.com/541d/fg124.m3u8?auth_key=1665295667-0-0-fa89da15b05d3c6bb57d9859fd63c8a8
-#EXTINF:-1 tvg-name="一起看直播" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="教会频道",一起看 直播/重播
+#EXTINF:-1 tvg-name="一起看直播" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看†直播/重播
 https://playtx.shangzhibo.tv/onelive/11351085-sAeGSWjZC.m3u8
-#EXTINF:-1 tvg-name="一起看直播" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="教会频道",一起看 直播/重播
+#EXTINF:-1 tvg-name="一起看直播" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看†直播/重播
 https://playtx.shangzhibo.tv/onelive/11355849-RybGaqBdw.m3u8
-#EXTINF:-1 tvg-name="一起看直播" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv_.png" group-title="教会频道",一起看 直播/重播
+#EXTINF:-1 tvg-name="一起看直播" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv_.png" group-title="†教会频道",一起看†直播/重播
 http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/da6f24be1397757898344908634/playlist.m3u8
 
-#EXTINF:-1 tvg-name="城北云崇" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="教会频道",城北云崇 钢琴
+#EXTINF:-1 tvg-name="城北云崇" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",城北云崇 钢琴
 http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/70e7f5d91397757896170506793/playlist.m3u8
-#EXTINF:-1 tvg-name="城北云崇" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="教会频道",城北云崇 诗歌
+#EXTINF:-1 tvg-name="城北云崇" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",城北云崇 诗歌
 http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/edc95b251397757897935767732/playlist.m3u8
-#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="教会频道",福音TV 云上崇拜
+
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
+https://cf-yqk.sanmanuela.com/20241201/index.m3u8
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
 https://cf-yqk.sanmanuela.com/20241124/index.m3u8
-#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="教会频道",福音TV 云上崇拜
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
 https://cf-yqk.sanmanuela.com/20241117/index.m3u8
-#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="教会频道",福音TV 云上崇拜
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
 https://cf-yqk.sanmanuela.com/20241111/index.m3u8
-#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="教会频道",福音TV 云上崇拜
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
 https://cf-yqk.sanmanuela.com/20241103/index.m3u8
-#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="教会频道",好消息
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
 http://litv.zapi.us.kg/4gTV/?id=litv-ftv16
-#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="教会频道",好消息2
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
 http://litv.zapi.us.kg/4gTV/?id=litv-ftv17
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8
