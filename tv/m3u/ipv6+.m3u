@@ -1,0 +1,71 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.aptvapp.com/xml"
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看 直播
+https://gt.yike33.com/541d/fg124.m3u8?auth_key=1665295667-0-0-fa89da15b05d3c6bb57d9859fd63c8a8
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看 直播
+https://playtx.shangzhibo.tv/onelive/.m3u8
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看 直播
+http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/3513e0611397757900035557003/playlist.m3u8
+
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看 圣诞
+https://gt.yike33.com/541d/fg124.m3u8?auth_key=1665295667-0-0-fa89da15b05d3c6bb57d9859fd63c8a8
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看 圣诞
+https://playtx.shangzhibo.tv/onelive/.m3u8
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看 圣诞
+http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/9e8eda9a1397757899309282165/playlist.m3u8
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看 圣诞
+http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/27405e321397757899311429152/playlist.m3u8
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看 圣诞
+http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/feba00ee1397757898990908697/playlist.m3u8
+
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",城北云崇 诗歌
+https://gt.yike33.com/541d/fg124.m3u8?auth_key=1665295667-0-0-fa89da15b05d3c6bb57d9859fd63c8a8
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",城北云崇 诗歌
+https://playtx.shangzhibo.tv/onelive/.m3u8
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",城北云崇 诗歌
+http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/edc95b251397757897935767732/playlist.m3u8
+#EXTINF:-1 tvg-name="一起看†" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",城北云崇 诗歌
+http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/70e7f5d91397757896170506793/playlist.m3u8
+
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
+https://cf-yqk.sanmanuela.com/20241229/index.m3u8
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
+https://cf-yqk.sanmanuela.com/20241222/index.m3u8
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
+https://cf-yqk.sanmanuela.com/20241215/index.m3u8
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
+https://cf-yqk.sanmanuela.com/20241208/index.m3u8
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
+https://cf-yqk.sanmanuela.com/20241201/index.m3u8
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
+https://cf-yqk.sanmanuela.com/20241124/index.m3u8
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
+https://cf-yqk.sanmanuela.com/20241117/index.m3u8
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
+https://cf-yqk.sanmanuela.com/20241111/index.m3u8
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
+https://cf-yqk.sanmanuela.com/20241103/index.m3u8
+
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
+http://litv.zapi.us.kg/4gTV/?id=litv-ftv16
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2_audio_only.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
+http://litv.zapi.us.kg/4gTV/?id=litv-ftv17
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2_audio_only.m3u8
