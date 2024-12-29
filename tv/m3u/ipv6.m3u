@@ -48,17 +48,29 @@ https://cf-yqk.sanmanuela.com/20241111/index.m3u8
 https://cf-yqk.sanmanuela.com/20241103/index.m3u8
 
 #EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
-https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+http://litv.zapi.us.kg/4gTV/?id=litv-ftv16
 #EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
-http://litv.zapi.us.kg/4gTV/?id=litv-ftv16
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2_audio_only.m3u8
 #EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
-https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+http://litv.zapi.us.kg/4gTV/?id=litv-ftv17
 #EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 #EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
-http://litv.zapi.us.kg/4gTV/?id=litv-ftv17
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
+https://akamai-live.akamaized.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 tvg-name="GOODTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/goodtv.tv.png" group-title="†教会频道",好消息2
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2_audio_only.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8
