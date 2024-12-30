@@ -367,5 +367,5 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="地方频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/jmstv.cc.png" group-title="地方频道",佳木斯新闻综合
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8
-#EXTINF:-1 tvg-name="地方频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/qttv.png" group-title="地方频道",青田电视台
+#EXTINF:-1 tvg-name="地方频道2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/gitfys/live/main/tv/qttv.png" group-title="地方频道",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
