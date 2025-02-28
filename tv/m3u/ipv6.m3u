@@ -12,7 +12,8 @@ http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/69ebb3c8139775790203923295
 #EXTINF:-1 tvg-name="一起看†" tvg-logo="https://tucdn.wpon.cn/2025/01/01/382caae57633b.png" group-title="†教会频道",一起看 直播
 http://recordtx.shangzhibo.tv/0a38e526vodcq1251771390/3513e0611397757900035557003/playlist.m3u8
 
-
+#EXTINF:-1 tvg-name="福音TV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/gitfys/live/main/tv/fuyin.tv.png" group-title="†教会频道",福音TV 云上崇拜
+https://cf-yqk.sanmanuela.com/20250302index.m3u8
 #EXTINF:-1 tvg-name="一起看†" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看 圣诞
 https://gt.yike33.com/541d/fg124.m3u8?auth_key=1665295667-0-0-fa89da15b05d3c6bb57d9859fd63c8a8
 #EXTINF:-1 tvg-name="一起看†" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/gitfys/live/main/tv/sjtv.png" group-title="†教会频道",一起看 圣诞
